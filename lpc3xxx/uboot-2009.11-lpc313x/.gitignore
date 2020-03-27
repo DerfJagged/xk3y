@@ -1,0 +1,10 @@
+.depend
+*.a
+*.o
+u-boot
+u-boot.bin
+u-boot.lds
+u-boot.map
+u-boot.srec
+System.map
+ac_keys.h

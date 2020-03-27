@@ -1,0 +1,9 @@
+#
+# Zorro configuration
+#
+config XODE
+	bool "Xode device driver"
+#	depends on ZORRO
+	---help---
+	  When in doubt, say Y.
+

@@ -1,0 +1,14 @@
+*.a
+.*.cmd
+*.o
+*.ko
+*.mod.c
+modules.builtin
+modules.order
+.config
+.missing-syscalls.d
+vmlinux
+System.map
+Module.symvers
+.version
+.missing-syscalls.d
